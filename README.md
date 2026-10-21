@@ -29,3 +29,15 @@ doarbai.ro). All 109 app-referenced images are present.
 That's it — box/showroom/coming-soon images will then load in the app.
 
 Showroom **videos** (~1.5 GB) are phase 2: same bucket, or use On-Demand Resources.
+
+## În curând list (`data/in-curand.json`)
+
+The iOS app's „În curând” page and the row at the top of Noutăți read this file through jsDelivr
+(`https://cdn.jsdelivr.net/gh/edipopescueduard6-lab/doarbai-assets@main/data/in-curand.json`) each time they open.
+Each new list replaces the previous one: an item left out has launched. Fields per item:
+`id` (stable slug), `name`, `image` (absolute URL, the website's photo), `description`, `link` (the item's
+doarbai.ro/in-curand/… page, where its „Anunță-mă” form is), optional `badge` (e.g. „Colecția nouă”) and optional
+`eta` (a launch date; without it the app says „Data lansării se anunță în curând”).
+
+After pushing a new list, purge the CDN copy so phones get it within minutes:
+`curl -s https://purge.jsdelivr.net/gh/edipopescueduard6-lab/doarbai-assets@main/data/in-curand.json`
