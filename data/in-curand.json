@@ -2,36 +2,760 @@
   "updated": "2026-10-21",
   "items": [
     {
-      "id": "solenne-35",
-      "name": "SOLENNE – Coloana de baie suspendata, 35 cm, culoare nuc inchis, cu usa si front din ratan",
-      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-68-1024x1024.jpg",
-      "description": "Coloana de baie suspendata SOLENNE, 35 cm, cu o usa si front din ratan, realizata din lemn stratificat rezistent la umiditate.",
-      "link": "https://doarbai.ro/in-curand/solenne-coloana-de-baie-suspendata-35-cm-culoare-nuc-inchis-cu-usa-si-front-din-ratan/",
-      "badge": "Colecția nouă"
+      "id": "wc-38040",
+      "name": "AVENE – Mobilier de baie suspendat, 100 cm, cu lavoar ceramic, corp lateral si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01.jpg",
+      "description": "Set de mobilier de baie suspendat, 100 cm: corp de lavoar cu 3 sertare, lavoar ceramic 1000 × 460 mm, corp lateral cu o usa si oglinda LED cu dezaburire. Corpuri din lemn stratificat, cu fronturi lacuite in alb mat, riflate vertical.",
+      "link": "https://doarbai.ro/in-curand/avene-mobilier-de-baie-suspendat-100-cm-cu-lavoar-ceramic-corp-lateral-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
     },
     {
-      "id": "orvieto-80",
-      "name": "ORVIETO – Mobilier de baie suspendat, 80 cm, cu lavoar din compozit si oglinda LED",
-      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-10-1024x1024.jpg",
-      "description": "Set de mobilier de baie suspendat ORVIETO de 80 cm, format din corp cu un sertar, blat-lavoar din compozit cu cuva integrata si oglinda LED in forma de capsula, cu iluminare in 3 culori si dezaburire.",
-      "link": "https://doarbai.ro/in-curand/orvieto-mobilier-de-baie-suspendat-80-cm-cu-lavoar-din-compozit-si-oglinda-led/",
-      "badge": "Colecția nouă"
+      "id": "wc-38042",
+      "name": "AVENE – Mobilier de baie suspendat, 120 cm, cu lavoar ceramic, corp lateral si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-1.jpg",
+      "description": "Set de mobilier de baie suspendat, 120 cm: corp de lavoar cu 3 sertare, lavoar ceramic 1200 × 460 mm, corp lateral cu o usa si oglinda LED cu dezaburire. Corpuri din lemn stratificat, cu fronturi lacuite in alb mat, riflate vertical.",
+      "link": "https://doarbai.ro/in-curand/avene-mobilier-de-baie-suspendat-120-cm-cu-lavoar-ceramic-corp-lateral-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
     },
     {
-      "id": "elvera-60",
-      "name": "ELVERA – Mobilier de baie suspendat, 60 cm, cu lavoar ceramic si oglinda LED",
-      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-11-1024x1024.jpg",
-      "description": "Setul de mobilier de baie ELVERA, de 60 cm, se monteaza suspendat pe perete si este format din lavoar ceramic, corp de mobilier cu un sertar si oglinda cu iluminare LED.",
-      "link": "https://doarbai.ro/in-curand/elvera-mobilier-de-baie-suspendat-60-cm-cu-lavoar-ceramic-si-oglinda-led/",
-      "badge": "Colecția nouă"
+      "id": "wc-38044",
+      "name": "ELARA – Mobilier de baie, 60 cm, cu blat din piatra sinterizata, lavoar ceramic si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-2.jpg",
+      "description": "Set de mobilier de baie de 60 cm: corp cu 2 sertare, blat din piatra sinterizata 600 × 460 mm, lavoar ceramic tip bol si oglinda LED cu dezaburire. Corp din lemn stratificat, cu fronturi lacuite, riflate vertical, in nuanta frasin natural.",
+      "link": "https://doarbai.ro/in-curand/elara-mobilier-de-baie-60-cm-cu-blat-din-piatra-sinterizata-lavoar-ceramic-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
     },
     {
-      "id": "orvieto-60",
+      "id": "wc-38046",
+      "name": "ELARA – Mobilier de baie, 80 cm, cu blat din piatra sinterizata, lavoar ceramic si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-3.jpg",
+      "description": "Set de mobilier de baie de 80 cm: corp cu 2 sertare, blat din piatra sinterizata 800 × 460 mm, lavoar ceramic tip bol si oglinda LED cu dezaburire. Corp din lemn stratificat, cu fronturi lacuite, riflate vertical, in nuanta frasin natural.",
+      "link": "https://doarbai.ro/in-curand/elara-mobilier-de-baie-80-cm-cu-blat-din-piatra-sinterizata-lavoar-ceramic-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38048",
+      "name": "ELARA – Mobilier de baie, 120 cm, cu blat din piatra sinterizata, doua lavoare ceramice si doua oglinzi LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-4.jpg",
+      "description": "Set de mobilier de baie de 120 cm: corp cu 4 sertare, blat din piatra sinterizata 1200 × 460 mm, doua lavoare ceramice tip bol si doua oglinzi LED cu dezaburire. Corp din lemn stratificat, cu fronturi lacuite, riflate vertical, in nuanta frasin natural.",
+      "link": "https://doarbai.ro/in-curand/elara-mobilier-de-baie-120-cm-cu-blat-din-piatra-sinterizata-doua-lavoare-ceramice-si-doua-oglinzi-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38050",
+      "name": "NOVARA – Mobilier de baie suspendat, 60 cm, cu lavoar ceramic si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-5.jpg",
+      "description": "Mobilier de baie suspendat de 60 cm: corp din lemn stratificat vopsit in lac, alb lucios, cu 1 sertar, lavoar ceramic 600 × 460 mm si oglinda LED 600 × 800 mm cu iluminare in 3 culori si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/novara-mobilier-de-baie-suspendat-60-cm-cu-lavoar-ceramic-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38052",
+      "name": "NOVARA – Mobilier de baie suspendat, 80 cm, cu lavoar ceramic si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-6.jpg",
+      "description": "Mobilier de baie suspendat de 80 cm: corp din lemn stratificat vopsit in lac, alb lucios, cu 1 sertar, lavoar ceramic 800 × 460 mm si oglinda LED 600 × 800 mm cu iluminare in 3 culori si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/novara-mobilier-de-baie-suspendat-80-cm-cu-lavoar-ceramic-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38054",
+      "name": "TIVOLI – Mobilier de baie suspendat, 60 cm, cu lavoar ceramic si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-7.jpg",
+      "description": "Mobilier de baie suspendat de 60 cm: corp din lemn stratificat lacuit, alb mat, cu 2 sertare cu fronturi canelate, lavoar ceramic 600 × 460 mm si oglinda LED 550 × 700 mm cu iluminare in 3 culori si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/tivoli-mobilier-de-baie-suspendat-60-cm-cu-lavoar-ceramic-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38056",
+      "name": "TIVOLI – Mobilier de baie suspendat, 100 cm, cu lavoar ceramic si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-8.jpg",
+      "description": "Mobilier de baie suspendat de 100 cm: corp din lemn stratificat lacuit, alb mat, cu 2 sertare cu fronturi canelate, lavoar ceramic 1000 × 460 mm si oglinda LED 950 × 700 mm cu iluminare in 3 culori si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/tivoli-mobilier-de-baie-suspendat-100-cm-cu-lavoar-ceramic-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38058",
       "name": "ORVIETO – Mobilier de baie suspendat, 60 cm, cu lavoar din compozit si oglinda LED",
-      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-9-1024x1024.jpg",
-      "description": "Set de mobilier de baie suspendat ORVIETO de 60 cm, format din corp cu un sertar, blat-lavoar din compozit cu cuva integrata si oglinda LED.",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-9.jpg",
+      "description": "Mobilier de baie suspendat de 60 cm: corp din lemn stratificat vopsit in lac, alb mat, cu 1 sertar, lavoar din compozit 600 × 460 mm si oglinda LED in forma de capsula, 500 × 800 mm, cu iluminare in 3 culori si dezaburire.",
       "link": "https://doarbai.ro/in-curand/orvieto-mobilier-de-baie-suspendat-60-cm-cu-lavoar-din-compozit-si-oglinda-led/",
-      "badge": "Colecția nouă"
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38060",
+      "name": "ORVIETO – Mobilier de baie suspendat, 80 cm, cu lavoar din compozit si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-10.jpg",
+      "description": "Mobilier de baie suspendat de 80 cm: corp din lemn stratificat vopsit in lac, alb mat, cu 1 sertar, lavoar din compozit 800 × 460 mm si oglinda LED in forma de capsula, 500 × 800 mm, cu iluminare in 3 culori si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/orvieto-mobilier-de-baie-suspendat-80-cm-cu-lavoar-din-compozit-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38062",
+      "name": "ELVERA – Mobilier de baie suspendat, 60 cm, cu lavoar ceramic si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-11.jpg",
+      "description": "Set de mobilier de baie suspendat ELVERA, 60 cm: lavoar ceramic alb lucios 600 × 460 mm, corp din lemn stratificat vopsit in lac alb laptos cu 1 sertar si oglinda LED 600 × 700 mm cu 3 culori de lumina si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/elvera-mobilier-de-baie-suspendat-60-cm-cu-lavoar-ceramic-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38064",
+      "name": "ELVERA – Mobilier de baie suspendat, 90 cm, cu lavoar ceramic si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-12.jpg",
+      "description": "Set de mobilier de baie suspendat ELVERA, 90 cm: lavoar ceramic alb lucios 900 × 460 mm, corp din lemn stratificat vopsit in lac alb laptos cu 1 sertar si oglinda LED 850 × 700 mm cu 3 culori de lumina si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/elvera-mobilier-de-baie-suspendat-90-cm-cu-lavoar-ceramic-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38066",
+      "name": "AVELORA – Mobilier de baie suspendat, 60 cm, cu lavoar ceramic si dulap cu oglinda",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-13.jpg",
+      "description": "Set de mobilier de baie suspendat AVELORA, 60 cm: lavoar ceramic alb lucios 600 × 460 mm, corp din lemn stratificat vopsit in lac gri mat cu 2 usi si dulap cu oglinda in forma de arcada, 600 × 900 × 150 mm.",
+      "link": "https://doarbai.ro/in-curand/avelora-mobilier-de-baie-suspendat-60-cm-cu-lavoar-ceramic-si-dulap-cu-oglinda/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38068",
+      "name": "NOVELLE – Mobilier de baie suspendat, 60 cm, cu lavoar ceramic si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-14.jpg",
+      "description": "Set de mobilier de baie suspendat NOVELLE, 60 cm: lavoar ceramic alb lucios 600 × 460 mm, corp din lemn stratificat vopsit in lac alb mat cu 1 sertar si front riflat, oglinda LED 500 × 800 mm cu 3 culori de lumina si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/novelle-mobilier-de-baie-suspendat-60-cm-cu-lavoar-ceramic-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38070",
+      "name": "NOVELLE – Mobilier de baie suspendat, 80 cm, cu lavoar ceramic si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-15.jpg",
+      "description": "Set de mobilier de baie suspendat NOVELLE, 80 cm: lavoar ceramic alb lucios 800 × 460 mm, corp din lemn stratificat vopsit in lac alb mat cu 1 sertar si front riflat, oglinda LED 500 × 800 mm cu 3 culori de lumina si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/novelle-mobilier-de-baie-suspendat-80-cm-cu-lavoar-ceramic-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38072",
+      "name": "LIVARA – Mobilier de baie suspendat, 50 cm, cu lavoar ceramic si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-16.jpg",
+      "description": "Set de mobilier de baie suspendat, 50 cm: corp din lemn stratificat vopsit in lac, verde masliniu inchis, cu 1 usa si front curbat riflat, lavoar ceramic rotund Ø500 mm in aceeasi culoare si oglinda LED 400 × 800 mm in forma de capsula. Oglinda are iluminare in 3 culori si functie de dezaburire.",
+      "link": "https://doarbai.ro/in-curand/livara-mobilier-de-baie-suspendat-50-cm-cu-lavoar-ceramic-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38074",
+      "name": "LORIELLE – Mobilier de baie pe pardoseala, 50 cm, cu lavoar ceramic si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-17.jpg",
+      "description": "Set de mobilier de baie pe pardoseala, 50 cm: corp tip coloana din lemn stratificat vopsit in lac, alb, cu 1 usa, caneluri verticale si soclu rotund, lavoar ceramic rotund Ø500 mm alb mat si oglinda LED 400 × 800 mm in forma de capsula, cu iluminare in 3 culori si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/lorielle-mobilier-de-baie-pe-pardoseala-50-cm-cu-lavoar-ceramic-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38076",
+      "name": "AVENZA – Mobilier de baie suspendat, 120 cm, cu lavoar ceramic integrat si oglinda LED rotunda",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-18.jpg",
+      "description": "Set de mobilier de baie suspendat, 120 cm: corp din lemn stratificat fara vopsea, culoare nuc inchis, cu 1 sertar si 2 usi, blat-lavoar ceramic alb lucios 1200 × 510 mm cu cuva integrata si oglinda LED rotunda Ø850 mm cu iluminare in 3 culori si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/avenza-mobilier-de-baie-suspendat-120-cm-cu-lavoar-ceramic-integrat-si-oglinda-led-rotunda/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38078",
+      "name": "CAVELLE – Mobilier de baie suspendat, 60 cm, cu lavoar ceramic tip bol si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-19.jpg",
+      "description": "Set de mobilier de baie suspendat, 60 cm: corp din lemn stratificat de 596 × 458 × 500 mm, cu 2 sertare, finisaj alb mat si maro mat, lavoar ceramic tip bol 360 × 360 mm maro mat si oglinda LED dreptunghiulara 500 × 800 mm cu iluminare in 3 culori si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/cavelle-mobilier-de-baie-suspendat-60-cm-cu-lavoar-ceramic-tip-bol-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38080",
+      "name": "MARVELLA – Mobilier de baie suspendat, 80 cm, cu blat din piatra sinterizata, lavoar ceramic si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-20.jpg",
+      "description": "Set de mobilier de baie suspendat, 80 cm: corp din lemn stratificat vopsit in lac negru mat, 800 × 460 mm, cu 1 sertar, blat din piatra sinterizata cu aspect de marmura 800 × 460 × 12 mm, lavoar ceramic alb tip bol Ø400 mm si oglinda LED 600 × 1200 mm cu iluminare in 3 culori si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/marvella-mobilier-de-baie-suspendat-80-cm-cu-blat-din-piatra-sinterizata-lavoar-ceramic-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38082",
+      "name": "ORLENA – Mobilier de baie suspendat, 100 cm, cu lavoar din compozit si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-21.jpg",
+      "description": "Mobilier de baie suspendat ORLENA, 100 cm: corp din lemn stratificat vopsit in lac alb mat, cu 1 sertar si 2 usi, lavoar din compozit de 1000 × 505 mm si oglinda LED rotunda ∅850 mm, cu iluminare in 3 culori si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/orlena-mobilier-de-baie-suspendat-100-cm-cu-lavoar-din-compozit-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38084",
+      "name": "LOREVIA – Mobilier de baie pe picioare, 120 cm, cu lavoar din compozit si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-22.jpg",
+      "description": "Mobilier de baie pe picioare LOREVIA, 120 cm: corp din lemn stratificat vopsit in lac alb mat, cu 1 sertar si 2 usi, lavoar din compozit de 1200 × 505 mm si oglinda LED rotunda ∅850 mm, cu iluminare in 3 culori si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/lorevia-mobilier-de-baie-pe-picioare-120-cm-cu-lavoar-din-compozit-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38086",
+      "name": "VIRELIA – Mobilier de baie pe picioare, 80 cm, cu lavoar din compozit si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-23.jpg",
+      "description": "Mobilier de baie pe picioare VIRELIA, 80 cm: corp din lemn stratificat vopsit in lac alb mat, cu 1 sertar si 1 polita deschisa, lavoar din compozit de 800 × 500 mm si oglinda LED de 750 × 700 mm, cu iluminare in 3 culori si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/virelia-mobilier-de-baie-pe-picioare-80-cm-cu-lavoar-din-compozit-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38088",
+      "name": "ARLISSE – Mobilier de baie suspendat, 100 cm, cu blat din piatra sinterizata, lavoar ceramic si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-24.jpg",
+      "description": "Mobilier de baie suspendat ARLISSE, 100 cm: corp din lemn stratificat vopsit in lac alb mat, cu 1 sertar si 2 usi, blat din piatra sinterizata de 1000 × 460 mm, lavoar ceramic de 495 × 305 × 130 mm montat pe blat si oglinda LED de 950 × 600 mm.",
+      "link": "https://doarbai.ro/in-curand/arlisse-mobilier-de-baie-suspendat-100-cm-cu-blat-din-piatra-sinterizata-lavoar-ceramic-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38090",
+      "name": "ALVERIS – Mobilier de baie suspendat, 120 cm, cu lavoar din compozit si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-25.jpg",
+      "description": "Mobilier de baie suspendat ALVERIS, 120 cm: corp lacuit in culoarea frasin natural, cu 1 sertar si 2 usi, lavoar din compozit alb mat de 1200 × 560 mm si oglinda LED de 1150 × 600 mm, cu iluminare in 3 culori si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/alveris-mobilier-de-baie-suspendat-120-cm-cu-lavoar-din-compozit-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38092",
+      "name": "NORELIA – Mobilier de baie pe pardoseala, 55 cm, cu lavoar ceramic si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-26.jpg",
+      "description": "Mobilier de baie pe pardoseala NORELIA, 55 cm: corp cilindric din lemn stratificat lacuit in culoarea nuc inchis, cu 1 usa cu linii verticale sculptate, lavoar ceramic rotund ∅550 mm alb lucios si oglinda LED de 400 × 800 mm.",
+      "link": "https://doarbai.ro/in-curand/norelia-mobilier-de-baie-pe-pardoseala-55-cm-cu-lavoar-ceramic-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38245",
+      "name": "ARVENA – Mobilier de baie suspendat, 80 cm, culoare stejar natural, cu blat din piatra sinterizata si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-60.jpg",
+      "description": "Mobilier de baie suspendat de 80 cm, cu corp din lemn stratificat rezistent la umiditate, in culoarea stejar natural, blat din piatra sinterizata cu finisaj mat si lavoar integrat sub blat, oglinda LED de 800 × 700 mm cu dezaburire. Glisiere DTC cu extragere completa si inchidere lenta.",
+      "link": "https://doarbai.ro/in-curand/arvena-mobilier-de-baie-suspendat-80-cm-culoare-stejar-natural-cu-blat-din-piatra-sinterizata-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38249",
+      "name": "ARVENA – Mobilier de baie suspendat, 150 cm, culoare nuc inchis, cu blat din piatra sinterizata, doua lavoare si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-61.jpg",
+      "description": "Mobilier de baie suspendat de 150 cm, cu corp din lemn stratificat rezistent la umiditate, in culoarea nuc inchis, cu doua sertare, blat din piatra sinterizata cu finisaj lucios si doua lavoare integrate sub blat, oglinda LED de 1500 × 700 mm cu dezaburire. Glisiere DTC cu extragere completa si inchidere lenta.",
+      "link": "https://doarbai.ro/in-curand/arvena-mobilier-de-baie-suspendat-150-cm-culoare-nuc-inchis-cu-blat-din-piatra-sinterizata-doua-lavoare-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38252",
+      "name": "VERONA – Mobilier de baie suspendat, 100 cm, verde salvie, cu lavoar din rasina si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-62.jpg",
+      "description": "Mobilier de baie suspendat de 100 cm, cu corp din lemn stratificat rezistent la umiditate (clasa de emisie E1), in finisaj verde salvie, cu un sertar cu front integral si un sertar interior pe glisiere DTC cu extragere completa. Setul include un lavoar din rasina verde salvie de 1000 × 500 mm si o oglinda LED de 1000 × 700 mm, cu temperatura de culoare reglabila si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/verona-mobilier-de-baie-suspendat-100-cm-verde-salvie-cu-lavoar-din-rasina-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38256",
+      "name": "LIORA – Mobilier de baie suspendat, 60 cm, alb, cu lavoar si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-63.jpg",
+      "description": "Set de mobilier de baie suspendat, 60 cm, cu corp din lemn stratificat rezistent la umiditate, finisaj vopsit alb mat cu efect de piatra si un sertar cu inchidere lenta. Include lavoar de 600 × 500 mm si oglinda LED de 600 × 700 mm cu intrerupator cu senzor si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/liora-mobilier-de-baie-suspendat-60-cm-alb-cu-lavoar-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38260",
+      "name": "LIORA – Mobilier de baie suspendat, 100 cm, alb, cu lavoar si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-64.jpg",
+      "description": "Set de mobilier de baie suspendat, 100 cm, cu corp din lemn stratificat rezistent la umiditate, finisaj vopsit alb mat cu efect de piatra si un sertar cu inchidere lenta. Include lavoar de 1000 × 500 mm si oglinda LED de 1000 × 700 mm cu intrerupator cu senzor si dezaburire.",
+      "link": "https://doarbai.ro/in-curand/liora-mobilier-de-baie-suspendat-100-cm-alb-cu-lavoar-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38263",
+      "name": "SOLENNE – Mobilier de baie suspendat, 60 cm, culoare nuc inchis, cu lavoar din rasina si oglinda LED ovala",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-65.jpg",
+      "description": "Mobilier de baie suspendat, 60 cm: corp din lemn stratificat rezistent la umiditate, vopsit in culoarea nuc inchis, doua sertare cu fronturi curbate din ratan, lavoar din rasina alb mat si oglinda LED ovala cu dezaburire.",
+      "link": "https://doarbai.ro/in-curand/solenne-mobilier-de-baie-suspendat-60-cm-culoare-nuc-inchis-cu-lavoar-din-rasina-si-oglinda-led-ovala/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38266",
+      "name": "SOLENNE – Mobilier de baie suspendat, 90 cm, culoare nuc inchis, cu lavoar din rasina si oglinda LED rotunda",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-66.jpg",
+      "description": "Mobilier de baie suspendat, 90 cm: corp din lemn stratificat rezistent la umiditate, vopsit in culoarea nuc inchis, doua sertare cu fronturi curbate din ratan, lavoar din rasina alb mat si oglinda LED rotunda cu dezaburire.",
+      "link": "https://doarbai.ro/in-curand/solenne-mobilier-de-baie-suspendat-90-cm-culoare-nuc-inchis-cu-lavoar-din-rasina-si-oglinda-led-rotunda/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38268",
+      "name": "SOLENNE – Mobilier de baie suspendat, 150 cm, culoare nuc inchis, cu lavoar dublu din rasina si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-67.jpg",
+      "description": "Mobilier de baie suspendat de 150 cm, cu corp din lemn stratificat rezistent la umiditate, vopsit in culoarea nuc inchis, fronturi din ratan si patru sertare pe glisiere Hettich. Include lavoar dublu din rasina alb mat si oglinda LED ovala cu dezaburire si temperatura de culoare reglabila.",
+      "link": "https://doarbai.ro/in-curand/solenne-mobilier-de-baie-suspendat-150-cm-culoare-nuc-inchis-cu-lavoar-dublu-din-rasina-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38274",
+      "name": "ALVARA – Mobilier de baie suspendat, 100 cm, cu lavoar integrat si oglinda LED",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-69.jpg",
+      "description": "Mobilier de baie suspendat de 100 cm, cu corp din lemn masiv de frasin si lemn stratificat rezistent la umiditate, fronturi riflate si 4 sertare cu glisiere Hettich cu inchidere lenta. Setul include lavoar cu cuva integrata in blat si oglinda LED ovala cu dezaburire si temperatura de culoare reglabila.",
+      "link": "https://doarbai.ro/in-curand/alvara-mobilier-de-baie-suspendat-100-cm-cu-lavoar-integrat-si-oglinda-led/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38277",
+      "name": "EVORA – Mobilier de baie suspendat, 90 cm, cu lavoar din rasina si oglinda LED rotunda",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-70.jpg",
+      "description": "Mobilier de baie suspendat de 90 cm, cu corp din lemn stratificat rezistent la umiditate, furnir de stejar natural cu finisaj vopsit si 2 sertare (unul interior) cu glisiere DTC cu inchidere lenta. Setul include lavoar din rasina alb mat si oglinda LED rotunda cu dezaburire si temperatura de culoare reglabila.",
+      "link": "https://doarbai.ro/in-curand/evora-mobilier-de-baie-suspendat-90-cm-cu-lavoar-din-rasina-si-oglinda-led-rotunda/",
+      "badge": "Colecția nouă",
+      "group": "Mobilier de baie"
+    },
+    {
+      "id": "wc-38283",
+      "name": "Cada freestanding de perete AQUAPURE 1500x750x600 din acril",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-71.jpg",
+      "description": "Cada freestanding de perete din acril alb lucios, forma dreptunghiulara, 1500 × 750 × 600 mm. Se livreaza cu preaplin integrat, fara capac aparent, si ventil de scurgere pop-up cu capac alb.",
+      "link": "https://doarbai.ro/in-curand/cada-freestanding-de-perete-aquapure-1500x750x600-din-acril/",
+      "badge": "Colecția nouă",
+      "group": "Căzi"
+    },
+    {
+      "id": "wc-38289",
+      "name": "Cada freestanding de perete AQUAPURE 1600x750x600 din acril",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-72.jpg",
+      "description": "Cada freestanding de perete din acril alb lucios, forma dreptunghiulara, 1600 × 750 × 600 mm. Se livreaza cu preaplin integrat, fara capac aparent, si ventil de scurgere pop-up cu capac alb.",
+      "link": "https://doarbai.ro/in-curand/cada-freestanding-de-perete-aquapure-1600x750x600-din-acril/",
+      "badge": "Colecția nouă",
+      "group": "Căzi"
+    },
+    {
+      "id": "wc-38297",
+      "name": "Cada de colt AQUADREAM 1500x780x600 din acril, orientare stanga",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-73.jpg",
+      "description": "Cada de colt din acril alb lucios, 1500 × 780 × 600 mm, cu capatul drept spre peretele din stanga si capatul din dreapta rotunjit. Se livreaza cu preaplin integrat, fara capac aparent, si ventil de scurgere pop-up cu capac alb.",
+      "link": "https://doarbai.ro/in-curand/cada-de-colt-aquadream-1500x780x600-din-acril-orientare-stanga/",
+      "badge": "Colecția nouă",
+      "group": "Căzi"
+    },
+    {
+      "id": "wc-38299",
+      "name": "Cada de colt AQUADREAM 1500x780x600 din acril, orientare dreapta",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-74.jpg",
+      "description": "Cada de colt din acril alb lucios, 1500 × 780 × 600 mm, cu capatul drept spre peretele din dreapta si capatul din stanga rotunjit. Se livreaza cu preaplin integrat, fara capac aparent, si ventil de scurgere pop-up cu capac alb.",
+      "link": "https://doarbai.ro/in-curand/cada-de-colt-aquadream-1500x780x600-din-acril-orientare-dreapta/",
+      "badge": "Colecția nouă",
+      "group": "Căzi"
+    },
+    {
+      "id": "wc-38301",
+      "name": "Cada freestanding de perete AQUADREAM 1600x800x600 din acril",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-75.jpg",
+      "description": "Cada freestanding de perete din acril alb lucios, 1600 × 800 × 600 mm, cu latura din spate dreapta si capete rotunjite. Se livreaza cu preaplin integrat, fara capac aparent, si ventil de scurgere pop-up cu capac alb.",
+      "link": "https://doarbai.ro/in-curand/cada-freestanding-de-perete-aquadream-1600x800x600-din-acril/",
+      "badge": "Colecția nouă",
+      "group": "Căzi"
+    },
+    {
+      "id": "wc-38307",
+      "name": "Cada de colt AQUASILK 1700x750x600 din acril, orientare stanga",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-76.jpg",
+      "description": "Cada de colt AQUASILK din acril alb lucios, 1700 × 750 × 600 mm, orientare stanga: latura din spate si capatul din stanga sunt drepte, pentru montaj la doi pereti, iar capatul liber din dreapta este rotunjit. Se livreaza cu preaplin integrat, fara capac aparent, si ventil de scurgere pop-up (click-clack) cu capac alb.",
+      "link": "https://doarbai.ro/in-curand/cada-de-colt-aquasilk-1700x750x600-din-acril-orientare-stanga/",
+      "badge": "Colecția nouă",
+      "group": "Căzi"
+    },
+    {
+      "id": "wc-38313",
+      "name": "Cada de colt AQUASILK 1700x750x600 din acril, orientare dreapta",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-77.jpg",
+      "description": "Cada de colt AQUASILK din acril alb lucios, 1700 × 750 × 600 mm, orientare dreapta: latura din spate si capatul din dreapta sunt drepte, pentru montaj la doi pereti, iar capatul liber din stanga este rotunjit. Se livreaza cu preaplin integrat, fara capac aparent, si ventil de scurgere pop-up (click-clack) cu capac alb.",
+      "link": "https://doarbai.ro/in-curand/cada-de-colt-aquasilk-1700x750x600-din-acril-orientare-dreapta/",
+      "badge": "Colecția nouă",
+      "group": "Căzi"
+    },
+    {
+      "id": "wc-38321",
+      "name": "Cada freestanding de perete AQUASILK 1700x750x600 din acril",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-78.jpg",
+      "description": "Cada freestanding de perete AQUASILK din acril alb lucios, 1700 × 750 × 600 mm, cu latura din spate dreapta pentru amplasare lipita de perete si ambele capete rotunjite. Se livreaza cu preaplin integrat, fara capac aparent, si ventil de scurgere pop-up (click-clack) cu capac alb.",
+      "link": "https://doarbai.ro/in-curand/cada-freestanding-de-perete-aquasilk-1700x750x600-din-acril/",
+      "badge": "Colecția nouă",
+      "group": "Căzi"
+    },
+    {
+      "id": "wc-38325",
+      "name": "Cada freestanding de perete AQUASTYLE 1500x750x580 din acril",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-79.jpg",
+      "description": "Cada freestanding de perete AQUASTYLE din acril alb lucios, 1500 × 750 × 580 mm, cu latura din spate dreapta pentru montaj lipit de perete si cuva ovala. Se livreaza cu preaplin integrat, fara capac aparent, si ventil de scurgere pop-up cu capac alb.",
+      "link": "https://doarbai.ro/in-curand/cada-freestanding-de-perete-aquastyle-1500x750x580-din-acril/",
+      "badge": "Colecția nouă",
+      "group": "Căzi"
+    },
+    {
+      "id": "wc-38329",
+      "name": "Cada freestanding de perete AQUASTYLE 1700x780x580 din acril",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-80.jpg",
+      "description": "Cada freestanding de perete AQUASTYLE din acril alb lucios, 1700 × 780 × 580 mm, cu latura din spate dreapta pentru montaj lipit de perete si cuva ovala. Se livreaza cu preaplin integrat, fara capac aparent, si ventil de scurgere pop-up cu capac alb.",
+      "link": "https://doarbai.ro/in-curand/cada-freestanding-de-perete-aquastyle-1700x780x580-din-acril/",
+      "badge": "Colecția nouă",
+      "group": "Căzi"
+    },
+    {
+      "id": "wc-38331",
+      "name": "Cada de colt AQUAGRACE 1600x750x600 din acril, orientare dreapta",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-81.jpg",
+      "description": "Cada de colt AQUAGRACE din acril alb lucios, 1600 × 750 × 600 mm, orientare dreapta: latura lunga din spate si latura scurta din dreapta se monteaza la perete, capatul liber are coltul rotunjit, iar cuva este ovala. Se livreaza cu preaplin integrat, fara capac aparent, si ventil de scurgere pop-up cu capac alb.",
+      "link": "https://doarbai.ro/in-curand/cada-de-colt-aquagrace-1600x750x600-din-acril-orientare-dreapta/",
+      "badge": "Colecția nouă",
+      "group": "Căzi"
+    },
+    {
+      "id": "wc-38339",
+      "name": "Cada de colt AQUAGRACE 1600x750x600 din acril, orientare stanga",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-82.jpg",
+      "description": "Cada de colt AQUAGRACE din acril alb lucios, 1600 × 750 × 600 mm, orientare stanga: latura lunga din spate si latura scurta din stanga se monteaza la perete, capatul liber are coltul rotunjit, iar cuva este ovala. Se livreaza cu preaplin integrat, fara capac aparent, si ventil de scurgere pop-up cu capac alb.",
+      "link": "https://doarbai.ro/in-curand/cada-de-colt-aquagrace-1600x750x600-din-acril-orientare-stanga/",
+      "badge": "Colecția nouă",
+      "group": "Căzi"
+    },
+    {
+      "id": "wc-38344",
+      "name": "Cada freestanding AQUAFLOW 1700x800x635 din acril",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-83.jpg",
+      "description": "Cada freestanding din acril alb lucios, 1700 × 800 × 635 mm, cu forma ovala si pereti exteriori bombati. Se livreaza cu preaplin integrat, fara capac aparent, si ventil de scurgere pop-up (click-clack) cu capac alb.",
+      "link": "https://doarbai.ro/in-curand/cada-freestanding-aquaflow-1700x800x635-din-acril/",
+      "badge": "Colecția nouă",
+      "group": "Căzi"
+    },
+    {
+      "id": "wc-38348",
+      "name": "Cada freestanding AQUACLASSIC 1700x800x750 din acril",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-84.jpg",
+      "description": "Cada freestanding din acril alb lucios, 1700 × 800 × 750 mm, cu un capat ridicat, margine rotunjita si soclu profilat la baza. Se livreaza cu preaplin integrat, fara capac aparent, si ventil de scurgere pop-up (click-clack) cu capac alb.",
+      "link": "https://doarbai.ro/in-curand/cada-freestanding-aquaclassic-1700x800x750-din-acril/",
+      "badge": "Colecția nouă",
+      "group": "Căzi"
+    },
+    {
+      "id": "wc-38350",
+      "name": "Cada freestanding AQUAVELVET 1700x800x630 din acril",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-85.jpg",
+      "description": "Cada freestanding din acril alb lucios, 1700 × 800 × 630 mm, cu forma ovala si ambele capete ridicate. Se livreaza cu preaplin integrat, fara capac aparent, si ventil de scurgere pop-up (click-clack) cu capac alb.",
+      "link": "https://doarbai.ro/in-curand/cada-freestanding-aquavelvet-1700x800x630-din-acril/",
+      "badge": "Colecția nouă",
+      "group": "Căzi"
+    },
+    {
+      "id": "wc-38098",
+      "name": "Placa flexibila din piatra naturala Slate Pure White 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-28.jpg",
+      "description": "Placa flexibila Slate Pure White, 1200 × 600 mm, grosime 2,5–3,5 mm, din argila modificata cu pulbere de piatra naturala. Suprafata are textura de ardezie clivata, cu relief neregulat si fisuri fine. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-slate-pure-white-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38101",
+      "name": "Placa flexibila din piatra naturala Slate Beige 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-29.jpg",
+      "description": "Placa flexibila Slate Beige, 1200 × 600 mm, grosime 2,5–3,5 mm, din argila modificata cu pulbere de piatra naturala. Suprafata are textura de ardezie clivata, cu relief neregulat si fisuri fine. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-slate-beige-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38103",
+      "name": "Placa flexibila din piatra naturala Slate Veil White 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-30.jpg",
+      "description": "Placa flexibila Slate Veil White, 1200 × 600 mm, grosime 2,5–3,5 mm, din argila modificata cu pulbere de piatra naturala. Suprafata are textura de ardezie clivata, cu relief neregulat si fisuri fine. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-slate-veil-white-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38106",
+      "name": "Placa flexibila din piatra naturala Sawing Wood Beige 315x58 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-31.jpg",
+      "description": "Placa flexibila Sawing Wood Beige, 3150 × 580 mm, grosime 7–10 mm, din argila modificata cu pulbere de piatra naturala. Suprafata imita lemnul taiat cu ferastraul: o retea neregulata de taieturi longitudinale si transversale, in relief. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-sawing-wood-beige-315x58-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38109",
+      "name": "Placa flexibila din piatra naturala Sawing Wood Gradient Brown 315x58 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-32.jpg",
+      "description": "Placa flexibila Sawing Wood Gradient Brown, 3150 × 580 mm, grosime 7–10 mm, din argila modificata cu pulbere de piatra naturala. Suprafata imita lemnul taiat cu ferastraul: o retea neregulata de taieturi longitudinale si transversale, in relief. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-sawing-wood-gradient-brown-315x58-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38113",
+      "name": "Placa flexibila din piatra naturala Line Stone Board Beige 300x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-33.jpg",
+      "description": "Placa flexibila Line Stone Board Beige, 3000 × 600 mm, grosime 4–8 mm, din argila modificata cu pulbere de piatra naturala. Suprafata este formata din randuri orizontale de piatra despicata, cu relief pronuntat si muchii neregulate. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-line-stone-board-beige-300x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38116",
+      "name": "Placa flexibila din piatra naturala Line Stone Board Dark Grey 300x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-34.jpg",
+      "description": "Placa flexibila Line Stone Board Dark Grey, 3000 × 600 mm, grosime 4–8 mm, din argila modificata cu pulbere de piatra naturala. Suprafata este formata din randuri orizontale de piatra despicata, cu relief pronuntat si muchii neregulate. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-line-stone-board-dark-grey-300x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38122",
+      "name": "Placa flexibila din piatra naturala Cloud-Dragon 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-35.jpg",
+      "description": "Placa flexibila Cloud-Dragon, 1200 × 600 mm, grosime 3–5 mm, din argila modificata cu pulbere de piatra naturala. Aspect de ardezie multicolora: fond gri-albastrui si crem, cu benzi ocru-aurii si zone gri inchis. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-cloud-dragon-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38128",
+      "name": "Placa flexibila din piatra naturala Gold Sand 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-36.jpg",
+      "description": "Placa flexibila Gold Sand, 1200 × 600 mm, grosime 3–5 mm, din argila modificata cu pulbere de piatra naturala. Fond gri-albastrui cu pete ruginii si ocru, cu aspect de piatra oxidata. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-gold-sand-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38130",
+      "name": "Placa flexibila din piatra naturala Mars Stone 320x120 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-37.jpg",
+      "description": "Placa flexibila Mars Stone, 3200 × 1200 mm, grosime 5–13 mm, din argila modificata cu pulbere de piatra naturala. Suprafata are aspect de piatra rugoasa, cu granulatie fina, in nuanta gri-bej. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-mars-stone-320x120-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38133",
+      "name": "Placa flexibila din piatra naturala Starmoon Stone Beige 300x120 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-38.jpg",
+      "description": "Placa flexibila Starmoon Stone Beige, 3000 × 1200 mm, grosime 5–13 mm, din argila modificata cu pulbere de piatra naturala. Suprafata are aspect de piatra despicata, cu granulatie fina si creste ondulate in diagonala. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-starmoon-stone-beige-300x120-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38136",
+      "name": "Placa flexibila din piatra naturala Starmoon Stone Dark Grey 300x120 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-39.jpg",
+      "description": "Placa flexibila Starmoon Stone Dark Grey, 3000 × 1200 mm, grosime 5–13 mm, din argila modificata cu pulbere de piatra naturala. Suprafata are aspect de piatra despicata, cu granulatie fina si creste ondulate in diagonala. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-starmoon-stone-dark-grey-300x120-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38139",
+      "name": "Placa flexibila din piatra naturala Starmoon Stone Deep Khaki 300x120 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-40.jpg",
+      "description": "Placa flexibila Starmoon Stone Deep Khaki, 3000 × 1200 mm, grosime 5–13 mm, din argila modificata cu pulbere de piatra naturala. Suprafata are aspect de piatra despicata, cu granulatie fina si creste ondulate in diagonala. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-starmoon-stone-deep-khaki-300x120-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38142",
+      "name": "Placa flexibila din piatra naturala Big Infinity Stone Beige 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-41.jpg",
+      "description": "Placa flexibila Big Infinity Stone Beige, 1200 × 600 mm, grosime 3–5 mm, din argila modificata cu pulbere de piatra naturala. Suprafata are striatii orizontale fine si dese, cioplite, cu ondulatii largi care dau un efect de apa curgatoare. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-big-infinity-stone-beige-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38144",
+      "name": "Placa flexibila din piatra naturala Big Infinity Stone Dark Grey 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-42.jpg",
+      "description": "Placa flexibila Big Infinity Stone Dark Grey, 1200 × 600 mm, grosime 3–5 mm, din argila modificata cu pulbere de piatra naturala. Suprafata are striatii orizontale fine si dese, cioplite, cu ondulatii largi care dau un efect de apa curgatoare. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-big-infinity-stone-dark-grey-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38147",
+      "name": "Placa flexibila din piatra naturala Round Line Stone Beige 280x59,5 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-43.jpg",
+      "description": "Placa flexibila Round Line Stone Beige, 2800 × 595 mm, grosime 2–8 mm, din argila modificata cu pulbere de piatra naturala. Suprafata are nervuri orizontale rotunjite, paralele si dese, cu textura granulata. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-round-line-stone-beige-280x595-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38150",
+      "name": "Placa flexibila din piatra naturala Round Line Stone Dark Grey 280x59,5 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-44.jpg",
+      "description": "Placa flexibila Round Line Stone Dark Grey, 2800 × 595 mm, grosime 2–8 mm, din argila modificata cu pulbere de piatra naturala. Suprafata are nervuri orizontale rotunjite, paralele si dese, cu textura granulata. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-round-line-stone-dark-grey-280x595-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38154",
+      "name": "Placa flexibila din piatra naturala Round Line Stone Red 280x59,5 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-45.jpg",
+      "description": "Placa flexibila Round Line Stone Red, 2800 × 595 mm, grosime 2–8 mm, din argila modificata cu pulbere de piatra naturala. Suprafata are nervuri orizontale rotunjite, paralele si dese, cu textura granulata. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-round-line-stone-red-280x595-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38160",
+      "name": "Placa flexibila din piatra naturala Dolomitic Travertine Dark Grey 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-46.jpg",
+      "description": "Placa flexibila Dolomitic Travertine Dark Grey, 1200 × 600 mm, din argila modificata cu pulbere de piatra naturala. Aspect de travertin, cu vene ondulate si pori fini. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-dolomitic-travertine-dark-grey-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38166",
+      "name": "Placa flexibila din piatra naturala Milan Travertine White 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-47.jpg",
+      "description": "Placa flexibila Milan Travertine White, 1200 × 600 mm, din argila modificata cu pulbere de piatra naturala. Aspect de travertin, cu striatii orizontale si pori alungiti. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-milan-travertine-white-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38169",
+      "name": "Placa flexibila din piatra naturala Weaving Grey 150x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-48.jpg",
+      "description": "Placa flexibila Weaving Grey, 1500 × 600 mm, din argila modificata cu pulbere de piatra naturala. Suprafata imita o tesatura in spic (herringbone), in relief. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-weaving-grey-150x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38175",
+      "name": "Placa flexibila din piatra naturala Stream Limestone Dark Grey 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-49.jpg",
+      "description": "Placa flexibila Stream Limestone Dark Grey, 1200 × 600 mm, din argila modificata cu pulbere de piatra naturala. Aspect de calcar, cu suprafata granulata si vinisoare ondulate. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-stream-limestone-dark-grey-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38181",
+      "name": "Placa flexibila din piatra naturala Linear Travertine Roman Yellow 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-50.jpg",
+      "description": "Placa flexibila Linear Travertine Roman Yellow, 1200 × 600 mm, din argila modificata cu pulbere de piatra naturala. Aspect de travertin, cu striatii orizontale continue. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-linear-travertine-roman-yellow-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38187",
+      "name": "Placa flexibila din piatra naturala Linear Travertine Claybank 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-51.jpg",
+      "description": "Placa flexibila Linear Travertine Claybank, 1200 × 600 mm, din argila modificata cu pulbere de piatra naturala. Aspect de travertin, cu striatii orizontale continue. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-linear-travertine-claybank-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38189",
+      "name": "Placa flexibila din piatra naturala Zen Ando Cement Warm Grey 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-52.jpg",
+      "description": "Placa flexibila Zen Ando Cement Warm Grey, 1200 × 600 mm, din argila modificata cu pulbere de piatra naturala. Aspect de beton aparent, cu 6 orificii decorative rotunde (imitatia gaurilor de cofraj), dispuse pe doua randuri. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-zen-ando-cement-warm-grey-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38195",
+      "name": "Placa flexibila din piatra naturala Runa Light Yellow 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-53.jpg",
+      "description": "Placa flexibila Runa Light Yellow, 1200 × 600 mm, din argila modificata cu pulbere de piatra naturala. Aspect de marmura, cu vene fine in diagonala. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-runa-light-yellow-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38201",
+      "name": "Placa flexibila din piatra naturala Runa Light Brown 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-54.jpg",
+      "description": "Placa flexibila Runa Light Brown, 1200 × 600 mm, din argila modificata cu pulbere de piatra naturala. Aspect de marmura, cu vene fine in diagonala. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-runa-light-brown-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38207",
+      "name": "Placa flexibila din piatra naturala Runa Light Grey 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-55.jpg",
+      "description": "Placa flexibila Runa Light Grey, 1200 × 600 mm, din argila modificata cu pulbere de piatra naturala. Aspect de marmura, cu vene fine in diagonala. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-runa-light-grey-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38213",
+      "name": "Placa flexibila din piatra naturala Terrazzo Rough Stone Yellow 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-56.jpg",
+      "description": "Placa flexibila Terrazzo Rough Stone Yellow, 1200 × 600 mm, din argila modificata cu pulbere de piatra naturala. Aspect de terrazzo, cu agregate de piatra de marimi diferite inglobate in masa. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-terrazzo-rough-stone-yellow-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38218",
+      "name": "Placa flexibila din piatra naturala Terrazzo Rough Stone Light Grey 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-57.jpg",
+      "description": "Placa flexibila Terrazzo Rough Stone Light Grey, 1200 × 600 mm, din argila modificata cu pulbere de piatra naturala. Aspect de terrazzo, cu agregate de piatra de marimi diferite inglobate in masa. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-terrazzo-rough-stone-light-grey-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38223",
+      "name": "Placa flexibila din piatra naturala Terrazzo Rough Stone Grey 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-58.jpg",
+      "description": "Placa flexibila Terrazzo Rough Stone Grey, 1200 × 600 mm, din argila modificata cu pulbere de piatra naturala. Aspect de terrazzo, cu agregate de piatra de marimi diferite inglobate in masa. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-terrazzo-rough-stone-grey-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
+    },
+    {
+      "id": "wc-38226",
+      "name": "Placa flexibila din piatra naturala Terrazzo Rough Stone Dark Grey 120x60 cm",
+      "image": "https://doarbai.ro/wp-content/uploads/2026/09/01-59.jpg",
+      "description": "Placa flexibila Terrazzo Rough Stone Dark Grey, 1200 × 600 mm, din argila modificata cu pulbere de piatra naturala. Aspect de terrazzo, cu agregate de piatra de marimi diferite inglobate in masa. Pentru placari de pereti interiori si exteriori.",
+      "link": "https://doarbai.ro/in-curand/placa-flexibila-din-piatra-naturala-terrazzo-rough-stone-dark-grey-120x60-cm/",
+      "badge": "Colecția nouă",
+      "group": "Plăci din piatră flexibilă"
     }
   ]
 }
